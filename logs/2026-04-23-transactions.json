@@ -144,5 +144,10 @@
     "details": {
       "address": "0xf724a7721b993eDB423bBBbe7103e41fc23aBc3A"
     }
+  },
+  {
+    "action": "SWAP_ETH_USDC",
+    "amount": "0.000204",
+    "timestamp": "2026-04-23T11:20:09.915Z"
   }
 ]
