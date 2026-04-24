@@ -570,5 +570,12 @@
     "action": "SWAP_ETH_USDC",
     "amount": "0.000558",
     "timestamp": "2026-04-24T23:40:01.156Z"
+  },
+  {
+    "action": "NFT_MINT",
+    "timestamp": "2026-04-24T23:40:10.706Z",
+    "details": {
+      "success": true
+    }
   }
 ]
