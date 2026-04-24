@@ -340,5 +340,10 @@
     "details": {
       "address": "0x8D88807EEea81FAE287B7483C76bb8A9d890184D"
     }
+  },
+  {
+    "action": "SWAP_ETH_DAI",
+    "amount": "0.000549",
+    "timestamp": "2026-04-24T16:07:05.740Z"
   }
 ]
