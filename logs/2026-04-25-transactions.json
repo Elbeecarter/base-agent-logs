@@ -35,5 +35,10 @@
     "details": {
       "success": true
     }
+  },
+  {
+    "action": "SWAP_ETH_USDC",
+    "amount": "0.001039",
+    "timestamp": "2026-04-25T01:40:08.784Z"
   }
 ]
