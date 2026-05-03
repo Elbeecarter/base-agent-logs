@@ -198,5 +198,10 @@
     "action": "SWAP_ETH_DAI",
     "amount": "0.000396",
     "timestamp": "2026-05-03T09:50:08.929Z"
+  },
+  {
+    "action": "SWAP_ETH_USDC",
+    "amount": "0.000588",
+    "timestamp": "2026-05-03T10:10:01.463Z"
   }
 ]
