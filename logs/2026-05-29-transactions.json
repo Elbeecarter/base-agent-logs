@@ -500,5 +500,10 @@
     "details": {
       "address": "0x88Bb80c30F1269BCC4376510DCb92229a98c83CB"
     }
+  },
+  {
+    "action": "SWAP_ETH_USDC",
+    "amount": "0.000054",
+    "timestamp": "2026-05-29T23:50:09.179Z"
   }
 ]
