@@ -38,5 +38,10 @@
     "action": "SWAP_ETH_USDC",
     "amount": "0.000147",
     "timestamp": "2026-06-20T01:50:08.610Z"
+  },
+  {
+    "action": "SWAP_ETH_DAI",
+    "amount": "0.000111",
+    "timestamp": "2026-06-20T02:00:09.663Z"
   }
 ]
